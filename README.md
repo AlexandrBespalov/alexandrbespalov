@@ -1,6 +1,6 @@
 [![Header](https://github.com/AlexandrBespalov/alexandrbespalov/blob/main/assets/header.png)](https://github.com/AlexandrBespalov)
 
-## I'm a beginner web-developer and a student at the moment
+## Beginner web-developer and a student at the moment
 
 ### Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-474753?style=for-the-badge&logo=HTML5)
