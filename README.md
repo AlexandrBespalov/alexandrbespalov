@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-🎨 HTML coder<br>💻 Frontend Developer<br>📚 Student at the moment<br>📱 In my spare time I explore UX/UI design<br>🎧 I adore listening to music
+🎨 HTML coder<br>💻 Frontend Developer<br>📚 Student at the moment<br>📱 In my spare time I explore UX/UI design<br>
 
 ### Languages and Tools
 
