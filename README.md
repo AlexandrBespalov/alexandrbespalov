@@ -14,5 +14,5 @@
 
 ### Follow Me
 
-[![Vkontakte](https://img.shields.io/badge/-VKONTAKTE-474753?style=for-the-badge&logo=VK&logoColor=71AAEB)](https://vk.com/fourton)
+[![Vkontakte](https://img.shields.io/badge/-VKONTAKTE-474753?style=for-the-badge&logo=VK&logoColor=71AAEB)](https://vk.com/bsplv)
 [![Telegram](https://img.shields.io/badge/-Telegram-474753?style=for-the-badge&logo=Telegram)](https://t.me/iBSPLV)
